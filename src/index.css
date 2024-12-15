@@ -1,3 +1,18 @@
+canvas {
+  border: 2px solid white;
+  border-radius: 15px;
+  background-color: blueviolet;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
